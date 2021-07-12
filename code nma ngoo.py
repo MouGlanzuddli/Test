@@ -1,4 +1,4 @@
-2.
+#thay thế chuỗi lmao
 def mutate_string(string, position, character):
     a = list(string)
     a[position] = character
